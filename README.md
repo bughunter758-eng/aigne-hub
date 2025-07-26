@@ -155,3 +155,12 @@ AIGNE Hub is part of the ArcBlock ecosystem. Please refer to our license terms f
 ---
 
 **Transform your AI development workflow with AIGNE Hub - the central nervous system for all your generative AI needs.**
+
+This pull request adds a brief introductory section to the README, summarizing AIGNE’s mission and vision.
+
+The goal is to give new visitors immediate context about the framework’s purpose and philosophy, while aligning with ArcBlock’s broader ecosystem.
+
+✅ Improves first impressions for new developers  
+✅ Highlights core values of modularity, openness, and collaboration  
+✅ Strengthens documentation quality and clarity
+
